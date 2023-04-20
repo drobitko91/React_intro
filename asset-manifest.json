@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_intro/static/css/main.be13b126.css",
+    "main.js": "/React_intro/static/js/main.c2e8f2cd.js",
+    "static/media/weathericons-regular-webfont.woff": "/React_intro/static/media/weathericons-regular-webfont.371511ddba5fdac0538c.woff",
+    "static/media/weathericons-regular-webfont.woff2": "/React_intro/static/media/weathericons-regular-webfont.e218aee6928fe3da9ed6.woff2",
+    "index.html": "/React_intro/index.html",
+    "main.be13b126.css.map": "/React_intro/static/css/main.be13b126.css.map",
+    "main.c2e8f2cd.js.map": "/React_intro/static/js/main.c2e8f2cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be13b126.css",
+    "static/js/main.c2e8f2cd.js"
+  ]
+}
